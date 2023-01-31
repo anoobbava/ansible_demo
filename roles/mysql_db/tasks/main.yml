@@ -1,3 +1,5 @@
+---
+# tasks file for mysql_db
 - name: Install MySql
   apt: name {{item}} state=present
   with_items:
