@@ -1,0 +1,10 @@
+
+[servers]
+db_and_app_server2 ansible_host=172.17.0.3 ansible_ssh_pass=Passw0rd ansible_user=root
+db_and_app_server3 ansible_host=172.17.0.3 ansible_ssh_pass=Passw0rd ansible_user=root
+db_and_app_server4 ansible_host=172.17.0.4 ansible_ssh_pass=Passw0rd ansible_user=root
+db_and_app_server5 ansible_host=172.17.0.5 ansible_ssh_pass=Passw0rd ansible_user=root
+db_and_app_server6 ansible_host=172.17.0.6 ansible_ssh_pass=Passw0rd ansible_user=root
+
+
+#vm_ware_player ansible_host=192.168.122.1 ansible_ssh_pass=anoob ansible_user=anoob
